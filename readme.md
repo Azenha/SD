@@ -1,0 +1,1 @@
+Trabalho de Web Sockets para a disciplina de Sistemas Distribuídos, do curso de Sistemas para Internet do SENAC-RS.
